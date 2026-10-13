@@ -8,7 +8,7 @@ class Motoca(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Motoca") # Titulo da janela
+        self.setWindowTitle("Motoca") # Titulo da janela##
         self.resize(900, 600) # Tamanho da janela
 
 
